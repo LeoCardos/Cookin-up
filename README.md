@@ -2,7 +2,7 @@
 
 # Requisitos
 
-Antes de iniciar, você precisa ter o Node.js instalado em sua máquina. O Node.js é necessário para executar os scripts de desenvolvimento e build do projeto.
+Antes de iniciar, você precisa ter o [Node.js](https://nodejs.org/en) instalado em sua máquina. O Node.js é necessário para executar os scripts de desenvolvimento e build do projeto.
 
 ## Configuração de IDE Recomendada
 
