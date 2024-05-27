@@ -42,3 +42,6 @@ npm run build
 ```
 
 ---
+
+## 📁 Acesse o projeto
+[Clique aqui para ver o projeto em funcionamento.](https://cookin-up-mocha.vercel.app/)
